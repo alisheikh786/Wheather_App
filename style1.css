@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;400;700&display=swap');
+
+
+body{
+    background-image: url(./images/image1.webp);
+    overflow-x: hidden;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Poppins', sans-serif;
+}
+.glass{
+  /* From https://css.glass */
+  background-color: rgba(255, 255, 255, .15);  
+  backdrop-filter: blur(8px);
+}
